@@ -1,0 +1,7 @@
+Hello,
+
+  Your grade for X in C is Y.
+
+  So, your final grade F is A.
+
+Regards.
